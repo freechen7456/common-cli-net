@@ -1,2 +1,5 @@
-# common-cli-net
-Porting Apache Common CLI 1.3.1 to .Net
+# Project commons-cli-net
+
+Porting Apache Commons CLI to .Net
+
+Refer to [apache official site](http://commons.apache.org/proper/commons-cli/introduction.html) for documents
